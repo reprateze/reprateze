@@ -67,6 +67,7 @@ Repositório dedicado aos meus estudos e pequenos projetos relacionados à Quali
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reprateze&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reprateze&theme=tokyonight" />
 </div>
+
 ---
 
 ## Onde me encontrar
