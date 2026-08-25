@@ -12,7 +12,7 @@ Foco em **Testes Automatizados e Qualidade de Software**
 
 ## Experiência
 
-### <img src="assets/logo-legal-control-software-juridico.png.png width="30" align="absmiddle"> QA — Legal Control
+### <img src="assets/logo-legal-control-software-juridico.png.png" width="30" align="absmiddle"> QA — Legal Control
 Atuação no processo de qualidade de software, contribuindo para a identificação, documentação e prevenção de problemas.
 
 **Atividades:**
