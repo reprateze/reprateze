@@ -1,4 +1,4 @@
-# Seja bem vindo 
+# Seja bem vindo !!!
 
 ### QA | Quality Assurance | Test Automation
 
@@ -63,9 +63,9 @@ Repositório dedicado aos meus estudos e pequenos projetos relacionados à Quali
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reprateze&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reprateze&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reprateze&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reprateze&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reprateze&theme=tokyonight" />
 </div>
 ---
 
