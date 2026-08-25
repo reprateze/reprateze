@@ -4,10 +4,6 @@
 
 Sou QA Júnior com experiência em **testes de software** e venho aprofundando meus conhecimentos em **automação de testes**, buscando evoluir cada vez mais em qualidade, processos e boas práticas.
 
-Estudante de **Ciência da Computação**  
-Experiência profissional como **QA**  
-Foco em **Testes Automatizados e Qualidade de Software**  
-
 ---
 
 ## Experiência
@@ -45,18 +41,6 @@ Atuação no processo de qualidade de software, contribuindo para a identificaç
 </p>
 
 **Principais Conhecimentos:** Page Object Model (POM) • Testes E2E • Testes de Regressão • Integração Contínua • Metodologias Ágeis.
-
----
-
-## Projetos em Destaque
-
-### [QA E2E Automation](https://github.com/reprateze/QA-e2e-automation)
-Projeto de automação de testes E2E focado em boas práticas de arquitetura utilizando o padrão Page Object Model.
-- **Tecnologias:** `Python`, `Playwright`, `PyTest`, `POM`
-
-### [Portfólio QA](https://github.com/reprateze/Qa-Portifolio)
-Repositório dedicado aos meus estudos e pequenos projetos relacionados à Qualidade de Software, cobrindo desde casos de testes manuais até automações de interface.
-- **Tecnologias:** `Python`, `Playwright`, `PyTest`, `POM`
 
 ---
 
