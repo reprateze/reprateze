@@ -50,15 +50,11 @@ Atuação no processo de qualidade de software, contribuindo para a identificaç
 
 ## 🚀 Projetos em Destaque
 
-### [QA E2E Automation](#) *(Insira o link do repositório)*
+### [QA E2E Automation](#) *(https://github.com/reprateze/QA-e2e-automation)*
 Projeto de automação de testes E2E focado em boas práticas de arquitetura utilizando o padrão Page Object Model.
 - **Tecnologias:** `Python`, `Playwright`, `PyTest`, `POM`
 
-### [🔌 API Test Automation](#) *(Insira o link do repositório)*
-Automação de testes de API trabalhando com diferentes cenários, *status codes* e validações estruturais de respostas.
-- **Tecnologias:** `Python`, `PyTest`, `REST API`, `Requests`
-
-### [Portfólio QA](#) *(Insira o link do repositório)*
+### [Portfólio QA](#) *(https://github.com/reprateze/Qa-Portifolio)*
 Repositório dedicado aos meus estudos e pequenos projetos relacionados à Qualidade de Software, cobrindo desde casos de testes manuais até automações de interface.
 
 ---
