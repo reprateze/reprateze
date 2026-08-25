@@ -1,4 +1,4 @@
-# Olá! Eu sou o Renan 👋
+# Seja bem vindo 
 
 ### QA | Quality Assurance | Test Automation
 
@@ -12,7 +12,7 @@ Foco em **Testes Automatizados e Qualidade de Software**
 
 ## Experiência
 
-### QA — Legal Control
+### <img src="COLE_O_LINK_AQUI" width="30" align="absmiddle"> QA — Legal Control
 Atuação no processo de qualidade de software, contribuindo para a identificação, documentação e prevenção de problemas.
 
 **Atividades:**
@@ -66,8 +66,8 @@ Repositório dedicado aos meus estudos e pequenos projetos relacionados à Quali
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reprateze&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reprateze&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
 </p>
 
 ---
