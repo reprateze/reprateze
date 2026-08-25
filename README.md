@@ -56,16 +56,17 @@ Projeto de automação de testes E2E focado em boas práticas de arquitetura uti
 
 ### [Portfólio QA](https://github.com/reprateze/Qa-Portifolio)
 Repositório dedicado aos meus estudos e pequenos projetos relacionados à Qualidade de Software, cobrindo desde casos de testes manuais até automações de interface.
+- **Tecnologias:** `Python`, `Playwright`, `PyTest`, `POM`
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reprateze&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reprateze&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reprateze&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Estatísticas do GitHub" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reprateze&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Linguagens Mais Utilizadas" />
 </p>
-
 ---
 
 ## Onde me encontrar
