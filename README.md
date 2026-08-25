@@ -1,5 +1,5 @@
-# Seja bem vindo !!!
-
+# Seja bem-vindo! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" align="absmiddle" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="35" align="absmiddle" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="35" align="absmiddle" />
+                                        
 ### QA | Quality Assurance | Test Automation
 
 Sou QA Júnior com experiência em **testes de software** e venho aprofundando meus conhecimentos em **automação de testes**, buscando evoluir cada vez mais em qualidade, processos e boas práticas.
