@@ -10,6 +10,21 @@ Foco em **Testes Automatizados e Qualidade de Software**
 
 ---
 
+## Experiência
+
+### QA — Legal Control
+
+Atuação como QA, participando do processo de qualidade de software e contribuindo para a identificação, documentação e prevenção de problemas.
+
+**Atividades:**
+- Execução de testes funcionais e de regressão
+- Automação de testes com Playwright
+- Desenvolvimento de testes utilizando Python e PyTest
+- Testes de API
+- Elaboração e execução de casos de teste
+- Participação em processos ágeis (Scrum/Kanban)
+- Utilização do Azure DevOps
+
 ## QA & Automação
 
 <p align="left">
@@ -20,6 +35,8 @@ Foco em **Testes Automatizados e Qualidade de Software**
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" />
+ <img src=".github/assets/logo.jpg" width="50" align="center">
+  <strong> QA — Legal Control</strong>
           
           
 
