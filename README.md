@@ -29,31 +29,32 @@ Atuação no processo de qualidade de software, contribuindo para a identificaç
 
 ### QA & Automação
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" alt="PyTest" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" />      
-  <img height="30" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 ### DevOps, Banco de Dados & Versionamento
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img height="30" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img height="30" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 **Principais Conhecimentos:** Page Object Model (POM) • Testes E2E • Testes de Regressão • Integração Contínua • Metodologias Ágeis.
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### [QA E2E Automation](#) *(https://github.com/reprateze/QA-e2e-automation)*
+### [QA E2E Automation](https://github.com/reprateze/QA-e2e-automation)
 Projeto de automação de testes E2E focado em boas práticas de arquitetura utilizando o padrão Page Object Model.
 - **Tecnologias:** `Python`, `Playwright`, `PyTest`, `POM`
 
-### [Portfólio QA](#) *(https://github.com/reprateze/Qa-Portifolio)*
+### [Portfólio QA](https://github.com/reprateze/Qa-Portifolio)
 Repositório dedicado aos meus estudos e pequenos projetos relacionados à Qualidade de Software, cobrindo desde casos de testes manuais até automações de interface.
 
 ---
