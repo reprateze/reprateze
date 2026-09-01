@@ -10,9 +10,6 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
  
 #
 
-<!-- Aumentei o margin-right para 80px para empurrar ela para a esquerda -->
-<img align="right" alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="300" style="margin-right: 80px; padding-top: 10px;" />
-
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:reprateze@gmail.com)
@@ -21,6 +18,9 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
 <br/>
 
 <h3 align="left">My Stack ~</h3>
+
+<!-- Agora sim: logo logo abaixo do título da Stack, com tamanho reduzido -->
+<img align="right" alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="180" style="margin-right: 40px;" />
 
 <p align="left">
   <img alt="Python" title="Python" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -38,7 +38,6 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
 
 <h3 align="left">GitHub Stats</h3>
 
-<!-- Adicionado width="46%" nos dois cards para forçar larguras iguais -->
 <div align="center">
   <img 
     alt="GitHub Stats" 
