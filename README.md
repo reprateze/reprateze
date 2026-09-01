@@ -10,21 +10,26 @@
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
-  <!-- Botões colados para evitar sublinhado extra do GitHub -->
   <a href="mailto:reprateze@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" alt="E-mail"></a>
   <a href="https://www.linkedin.com/in/renan-prateze-ferreira-7b34a822a"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn"></a>
 </p>
 
-<br/>
+<div align="right" style="margin-top: -95px;">
 
-<!-- A logo flutuando à direita deve ser colocada AQUI, antes do título "My Stack", para ocupar o espaço de cima -->
-<img
-  align="right"
-  alt="Logo Legal Control"
-  src="src/logo-legal-control-software-juridico.png.png"
-  width="160"
-  style="margin-top: 20px; margin-left: 25px;"
-/>
+  <h3 style="margin-bottom: 5px; margin-right: 200px;">
+    QA Engineer | Legal Control ˙ᵕ˙
+  </h3>
+
+  <img
+    alt="Logo Legal Control"
+    src="src/logo-legal-control-software-juridico.png.png"
+    width="180"
+    style="
+    margin-top: -40px;
+    margin-right: 200px;"
+  />
+
+</div>
 
 <h3 align="left">My Stack ~</h3>
 <p align="left">
