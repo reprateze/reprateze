@@ -18,8 +18,6 @@
   <a href="https://www.linkedin.com/in/renan-prateze-ferreira-7b34a822a"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn"></a>
 </p>
 
-<br/>
-
 <h3 align="left">My Stack ~</h3>
 <p align="left">
   <img alt="Python" title="Python" height="40" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -40,8 +38,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="GitHub Top Langs" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=reprateze&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" height="165" />
 </p>
-
-<br/>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reprateze/reprateze/output/github-contribution-grid-snake-dark.svg">
