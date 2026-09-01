@@ -11,11 +11,11 @@
 </p>
 
 #
-
 <h3 align="left">Connect with me!</h3>
 <p align="left">
-  <a href="mailto:reprateze@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" alt="E-mail"></a>
-  <a href="https://www.linkedin.com/in/renan-prateze-ferreira-7b34a822a"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn"></a>
+  <a href="mailto:reprateze@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" alt="E-mail"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/renan-prateze-ferreira-7b34a822a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn"></a>
 </p>
 
 <h3 align="left">My Stack ~</h3>
