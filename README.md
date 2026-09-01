@@ -112,7 +112,7 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
   &nbsp;
   <img 
     alt="Logo Empresa"
-    src="./caminho/para/logo-legal-control.gif" 
+    src="src/logo-legal-control-software-juridico.png.png" 
     width="12%"
   />
 </div>
