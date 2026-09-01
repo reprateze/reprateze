@@ -18,7 +18,7 @@
 <br/>
 
 <!-- A logo flutuando à direita deve ser colocada AQUI, antes do título "My Stack", para ocupar o espaço de cima -->
-<img align="right" alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="160" />
+<img align="center" alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="160" />
 
 <h3 align="left">My Stack ~</h3>
 <p align="left">
