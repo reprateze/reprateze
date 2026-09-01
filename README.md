@@ -23,7 +23,7 @@
   alt="Logo Legal Control"
   src="src/logo-legal-control-software-juridico.png.png"
   width="160"
-  style="margin-top: -15px; margin-left: 25px;"
+  style="margin-top: 20px; margin-left: 25px;"
 />
 
 <h3 align="left">My Stack ~</h3>
