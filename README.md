@@ -21,7 +21,7 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
 <h3 align="left">My Stack ~</h3>
 
 <!-- Logo da Legal Control flutuando à direita na seção Stack -->
-<img align="right" alt="Logo Empresa" src="src/logo-legal-control-software-juridico.png.png" height="50px" />
+<img align="right" alt="Logo Empresa" src="src/logo-legal-control-software-juridico.png.png" height="130px" />
 
 <img 
     align="left" 
