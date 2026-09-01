@@ -4,13 +4,13 @@
   </a>
 </div>
 
-<br/>
+#
 
 <p align="justify">
   Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualidade de Software. Trabalho com testes manuais e automação, utilizando Python, Pytest, Playwright, APIs REST, Git e Azure DevOps. Também desenvolvo projetos para aprimorar minhas habilidades em automação, testes E2E e testes de API.
 </p>
 
-<br/>
+#
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
