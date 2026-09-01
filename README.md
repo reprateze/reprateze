@@ -7,20 +7,19 @@
 #
 
 Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualidade de Software. Trabalho com testes manuais e automação, utilizando Python, Pytest, Playwright, APIs REST, Git e Azure DevOps. Também desenvolvo projetos para aprimorar minhas habilidades em automação, testes E2E e testes de API.
- 
+
 #
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:reprateze@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/renan-prateze-ferreira-7b34a822a)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:reprateze@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/renan-prateze-ferreira-7b34a822a)
 
 <br/>
 
 <h3 align="left">My Stack ~</h3>
 
-<!-- Agora sim: logo logo abaixo do título da Stack, com tamanho reduzido -->
-<img align="right" alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="180" style="margin-right: 40px;" />
+<img align="right" alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png" width="180" style="margin-right: 40px;" />
 
 <p align="left">
   <img alt="Python" title="Python" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -33,8 +32,7 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
   <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </p>
 
-<br/>
-<br/>
+<br clear="right"/>
 
 <h3 align="left">GitHub Stats</h3>
 
