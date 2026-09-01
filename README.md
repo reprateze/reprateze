@@ -6,8 +6,7 @@
 
 #
 
-Me chamo Paulo Queiroz, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia, curioso sobre Hardware e compartilho meu conhecimento através do
-meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
+Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualidade de Software. Trabalho com testes manuais e automação, utilizando Python, Pytest, Playwright, APIs REST, Git e Azure DevOps. Também desenvolvo projetos para aprimorar minhas habilidades em automação, testes E2E e testes de API.
  
 #
 
@@ -15,8 +14,8 @@ meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:paulorobertodequeirozjr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:reprateze@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/renan-prateze-ferreira-7b34a822a)
 
 
 <h3 align="left">My Stack ~</h3>
@@ -79,7 +78,7 @@ meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
     title="Vercel"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
 />
 <br/>
 <br/>
