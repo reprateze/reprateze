@@ -22,16 +22,17 @@
 
 <h3 align="left">My Stack ~</h3>
 <p align="left">
-  <img alt="Python" title="Python" width="40px" style="padding-right: 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Playwright" title="Playwright" width="40px" style="padding-right: 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
-  <img alt="Pytest" title="Pytest" width="40px" style="padding-right: 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" />
-  <img alt="GitHub" title="GitHub" width="40px" style="padding-right: 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img alt="Git" title="Git" width="40px" style="padding-right: 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="HTML" title="HTML" width="40px" style="padding-right: 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="40px" style="padding-right: 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 12px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="160" style="vertical-align: middle;" />
+  <img alt="Python" title="Python" height="40" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Playwright" title="Playwright" height="40" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+  <img alt="Pytest" title="Pytest" height="40" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" />
+  <img alt="GitHub" title="GitHub" height="40" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="Git" title="Git" height="40" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="HTML" title="HTML" height="40" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" height="40" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" height="40" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Alterado de width="160" para height="45" para travar na mesma linha dos ícones -->
+  <img alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" height="45" />
 </p>
 
 <br/>
