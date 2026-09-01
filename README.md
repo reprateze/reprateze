@@ -30,8 +30,6 @@
   <img alt="JavaScript" title="JavaScript" height="40" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </p>
 
-<br/>
-
 <h3 align="left">GitHub Stats</h3>
 <p align="left">
   <img alt="GitHub Stats" src="https://github-readme-stats-tau-seven-58.vercel.app/api?username=reprateze&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" height="165" />
