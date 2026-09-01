@@ -2,8 +2,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=700&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9" alt="Typing SVG">
   </a>
-  
-  <h3>QA Engineer | Legal Control ˙ᵕ˙</h3>
 </div>
 
 <br/>
@@ -39,6 +37,7 @@
 <h3 align="left">GitHub Stats</h3>
 <p align="left">
   <img alt="GitHub Stats" src="https://github-readme-stats-tau-seven-58.vercel.app/api?username=reprateze&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" height="165" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="GitHub Top Langs" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=reprateze&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" height="165" />
 </p>
 
