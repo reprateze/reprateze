@@ -19,9 +19,9 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
 
 <h3 align="left">My Stack ~</h3>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
   <tr>
-    <td valign="middle">
+    <td valign="middle" style="border:none;">
       <img alt="Python" title="Python" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
       <img alt="Playwright" title="Playwright" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
       <img alt="Pytest" title="Pytest" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" />
@@ -31,18 +31,18 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
       <img alt="CSS" title="CSS" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
       <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     </td>
-    <td valign="middle" width="40"></td>
-    <td valign="middle">
-      <img alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="140" />
+    <td valign="middle" width="40" style="border:none;"></td>
+    <td valign="middle" style="border:none;">
+      <img alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png" width="140" />
     </td>
   </tr>
 </table>
 
 <h3 align="left">GitHub Stats</h3>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
   <tr>
-    <td>
+    <td style="border:none;">
       <img 
         alt="GitHub Stats" 
         src="https://github-readme-stats-tau-seven-58.vercel.app/api?username=reprateze&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
@@ -50,7 +50,8 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
         height="165"
       />
     </td>
-    <td>
+    <td width="20" style="border:none;"></td>
+    <td style="border:none;">
       <img 
         alt="GitHub Top Langs" 
         src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=reprateze&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
