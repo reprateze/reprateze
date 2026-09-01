@@ -10,7 +10,8 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
  
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<!-- A logo entra EXATAMENTE AQUI! Antes das redes sociais e da stack -->
+<img align="right" alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="300" style="padding-right: 20px; padding-top: 10px;" />
 
 <h3 align="left">Connect with me!</h3>
 
@@ -19,12 +20,8 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
 
 <br/>
 
-<!-- Logo da Legal Control ANTES do título "My Stack" para ela flutuar à direita corretamente -->
-<img align="right" alt="Logo Empresa" src="src/logo-legal-control-software-juridico.png.png" height="130px" style="padding-right: 20px;" />
-
 <h3 align="left">My Stack ~</h3>
 
-<!-- Agrupei as linguagens num parágrafo só, evita quebrar a linha da logo -->
 <p align="left">
   <img alt="Python" title="Python" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Playwright" title="Playwright" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
