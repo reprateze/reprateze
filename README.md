@@ -12,8 +12,8 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:reprateze@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/renan-prateze-ferreira-7b34a822a)
+[![E-mail](https://img.shields.io/badge/-Email-FF00F6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:reprateze@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF00F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-prateze-ferreira-7b34a822a)
 
 <br/>
 
@@ -28,7 +28,7 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
   <img alt="HTML" title="HTML" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 24px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png" width="140" />
+  <img alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="140" />
 </p>
 
 <h3 align="left">GitHub Stats</h3>
@@ -36,14 +36,14 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
 <p align="left">
   <img 
     alt="GitHub Stats" 
-    src="https://github-readme-stats-tau-seven-58.vercel.app/api?username=reprateze&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+    src="https://github-readme-stats-tau-seven-58.vercel.app/api?username=reprateze&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&custom_title=My%20GitHub%20Statistics"
     width="400"
     height="165"
     style="padding-right: 16px;"
   />
   <img 
     alt="GitHub Top Langs" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=reprateze&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=reprateze&layout=compact&custom_title=Stack&langs_count=8&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" 
     width="380"
     height="165"
   />
