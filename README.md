@@ -10,8 +10,8 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
  
 #
 
-<!-- A logo entra EXATAMENTE AQUI! Antes das redes sociais e da stack -->
-<img align="right" alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="300" style="padding-right: 20px; padding-top: 10px;" />
+<!-- Aumentei o margin-right para 80px para empurrar ela para a esquerda -->
+<img align="right" alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="300" style="margin-right: 80px; padding-top: 10px;" />
 
 <h3 align="left">Connect with me!</h3>
 
@@ -38,15 +38,18 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
 
 <h3 align="left">GitHub Stats</h3>
 
+<!-- Adicionado width="46%" nos dois cards para forçar larguras iguais -->
 <div align="center">
   <img 
     alt="GitHub Stats" 
     src="https://github-readme-stats-tau-seven-58.vercel.app/api?username=reprateze&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+    width="46%"
     height="165"
   />
   <img 
     alt="GitHub Top Langs" 
     src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=reprateze&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+    width="46%"
     height="165"
   />
 </div>
