@@ -74,11 +74,11 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
 
 <img
     align="left"
-    alt="Vercel"
-    title="Vercel"
+    alt="Playwright"
+    title="Playwright"
     width="30px"
     style="padding-right: 10px;"
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
 />
 <br/>
 <br/>
