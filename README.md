@@ -4,7 +4,9 @@
   </a>
 </div>
 
-# Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualidade de Software. Trabalho com testes manuais e automação, utilizando Python, Pytest, Playwright, APIs REST, Git e Azure DevOps. Também desenvolvo projetos para aprimorar minhas habilidades em automação, testes E2E e testes de API. 
+<p align="justify">
+  Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualidade de Software. Trabalho com testes manuais e automação, utilizando Python, Pytest, Playwright, APIs REST, Git e Azure DevOps. Também desenvolvo projetos para aprimorar minhas habilidades em automação, testes E2E e testes de API.
+</p>
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
@@ -16,8 +18,8 @@
   </a>
 </p>
 
-<!-- A logo com align="right" deve ficar antes do título e das stacks para alinhar lado a lado corretamente -->
-<img align="right" alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="180" />
+<!-- Adicionado padding-top para empurrar a logo um pouco para baixo e alinhar com os ícones -->
+<img align="right" alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="180" style="padding-top: 15px; padding-right: 10px;" />
 
 <h3 align="left">My Stack ~</h3>
 <p align="left">
