@@ -8,23 +8,6 @@
   Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualidade de Software. Trabalho com testes manuais e automação, utilizando Python, Pytest, Playwright, APIs REST, Git e Azure DevOps. Também desenvolvo projetos para aprimorar minhas habilidades em automação, testes E2E e testes de API.
 </p>
 
-<!-- Tabela para forçar o alinhamento lado a lado sem usar CSS (style) -->
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" align="left">
-      <h3>Connect with me!</h3>
-      <p>
-        <a href="mailto:reprateze@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" alt="E-mail"></a>
-        <a href="https://www.linkedin.com/in/renan-prateze-ferreira-7b34a822a"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn"></a>
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <h3>QA Engineer | Legal Control ˙ᵕ˙</h3>
-      <img alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="180" />
-    </td>
-  </tr>
-</table>
-
 <h3 align="left">My Stack ~</h3>
 <p align="left">
   <img alt="Python" title="Python" height="40" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
