@@ -18,20 +18,29 @@
   </a>
 </p>
 
-<!-- Adicionado padding-top para empurrar a logo um pouco para baixo e alinhar com os ícones -->
-<img align="right" alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="180" style="padding-top: 15px; padding-right: 10px;" />
+<br/>
 
-<h3 align="left">My Stack ~</h3>
-<p align="left">
-  <img alt="Python" title="Python" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Playwright" title="Playwright" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
-  <img alt="Pytest" title="Pytest" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" />
-  <img alt="GitHub" title="GitHub" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img alt="Git" title="Git" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="HTML" title="HTML" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-</p>
+<!-- Usando uma tabela para travar o alinhamento da Logo com a Stack -->
+<table>
+  <tr>
+    <td valign="middle" align="left" width="65%">
+      <h3>My Stack ~</h3>
+      <p>
+        <img alt="Python" title="Python" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+        <img alt="Playwright" title="Playwright" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+        <img alt="Pytest" title="Pytest" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" />
+        <img alt="GitHub" title="GitHub" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+        <img alt="Git" title="Git" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+        <img alt="HTML" title="HTML" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+        <img alt="CSS" title="CSS" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+        <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+      </p>
+    </td>
+    <td valign="middle" align="center" width="35%">
+      <img alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="180" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
