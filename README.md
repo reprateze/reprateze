@@ -17,11 +17,11 @@
 
 <br/>
 
+<!-- A logo flutuando à direita deve ser colocada AQUI, antes do título "My Stack", para ocupar o espaço de cima -->
+<img align="right" alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="160" />
+
 <h3 align="left">My Stack ~</h3>
 <p align="left">
-  <!-- A logo alinhada à direita DEVE ser o primeiro item do parágrafo -->
-  <img align="right" alt="Logo Legal Control" src="src/logo-legal-control-software-juridico.png.png" width="160" />
-  
   <img alt="Python" title="Python" height="40" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Playwright" title="Playwright" height="40" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
   <img alt="Pytest" title="Pytest" height="40" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" />
