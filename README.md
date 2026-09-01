@@ -33,7 +33,7 @@
 <h3 align="left">GitHub Stats</h3>
 <p align="left">
   <img alt="GitHub Stats" src="https://github-readme-stats-tau-seven-58.vercel.app/api?username=reprateze&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" height="165" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="GitHub Top Langs" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=reprateze&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" height="165" />
 </p>
 
