@@ -20,6 +20,9 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
 
 <h3 align="left">My Stack ~</h3>
 
+<!-- Logo da Legal Control flutuando à direita na seção Stack -->
+<img align="right" alt="Logo Empresa" src="src/logo-legal-control-software-juridico.png.png" height="50px" />
+
 <img 
     align="left" 
     alt="Python" 
@@ -101,17 +104,12 @@ Sou Renan, estudante de Ciência da Computação e QA com experiência em Qualid
   <img 
     alt="GitHub Stats" 
     src="https://github-readme-stats-tau-seven-58.vercel.app/api?username=reprateze&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
-    height="155"
+    height="165"
   />
   <img 
     alt="GitHub Top Langs" 
     src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=reprateze&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
-    height="155"
-  />
-  <img 
-    alt="Logo Empresa"
-    src="src/logo-legal-control-software-juridico.png.png" 
-    height="90"
+    height="165"
   />
 </div>
 
